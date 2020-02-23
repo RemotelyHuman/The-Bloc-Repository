@@ -1,0 +1,27 @@
+﻿Title: [Bloc] DiscordPrompt001
+Author: RemotelyHuman#6646, Discord ID 672941826784624655
+Creation Date: N/A
+Revision: N/A
+Revision Date: N/A
+Note: Edit and Repload of Document by RemotelyHuman#6646, Discord ID 672941826784624655
+[------------------------------------------------]
+
+
+﻿[Automated Bulletin]
+Subject(s): Cross-Floor Communication
+Affected Sector(s): All Floors
+
+Citizens, you are encouraged to participate in the new, experimental cross-floor communication system. The system can be accessed by entering the following command into any authorized communication terminal running Sys7.2.3 or higher:
+
+ent --gg --/ Y99WJVw
+
+Participating in the communication system allows citizens to qualify in a ration testing lottery that sends three (3) extra rations of an unreleased menu. The current experimental menu contains 0.023%* more produce from the Hydroponics Department.
+
+*Percentage is within the statistical margin of error
+
+
+{end;}
+
+
+[------------------------------------------------]
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
