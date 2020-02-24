@@ -6,9 +6,9 @@
 - [License (Attribution-ShareAlike 4.0 International)](https://github.com/RemotelyHuman/The-Bloc-Repository/tree/master/LICENSE.md)
 
 ## To Do list
--[ ] Make a Website
--[ ] Add more works
--[ ] Make an outline
+- [ ] Make a Website
+- [ ] Add more works
+- [ ] Make an outline
 
 ## Authors
 - Albert Macdgul
