@@ -1,0 +1,24 @@
+/*▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬ ▬☆𝐄𝐏𝐒𝐓𝐄𝐈𝐍 𝐃𝐈𝐃𝐍'𝐓 𝐊𝐈𝐋𝐋 𝐇𝐈𝐌𝐒𝐄𝐋𝐅☆ ▬ ▬▬▬▬▬▬▬▬▬ஜ۩☆۩ஜ▬▬▬▬▬▬▬▬*/
+
+html, body {
+  overflow-x: hidden;
+  background-color: #2C2F33;
+  color: #FFF;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('https://d35se641xpkbtu.cloudfront.net/84f8fe87-59d6-4f94-9910-f6388741e106/fonts/NunitoSans-Regular.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+.center{
+  text-align: center;
+}
+
+.white{
+  color: #fff;
+}
