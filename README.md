@@ -2,8 +2,8 @@
 
 ## What's in this repo
 - [Website](https://bloc.gq/)
-- [Bloc Works](https://github.com/RemotelyHuman/The-Bloc-Repository/tree/master/works)
-- [License (Attribution-ShareAlike 4.0 International)](https://github.com/RemotelyHuman/The-Bloc-Repository/tree/master/LICENSE.md)
+- [Bloc Works](https://github.com/The-Bloc-Project/The-Bloc-Repository/tree/master/works)
+- [License (Attribution-ShareAlike 4.0 International)](https://github.com/The-Bloc-Project/The-Bloc-Repository/tree/master/LICENSE.md)
 
 ## To Do list
 - [ ] Make a Website
