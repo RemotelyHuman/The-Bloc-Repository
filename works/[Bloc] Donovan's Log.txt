@@ -1,0 +1,61 @@
+Title: [Bloc] Donovan's Log
+Author: Kikoeru#1982, Discord ID 164204195069689857
+Creation Date: N/A
+Revision: N/A
+Revision Date: N/A
+Note 1: Edit and Repload of Document by Cukon#1516, Discord ID 328642147060547605
+Note 2*: Edit of Document by RemotelyHuman#6646, Discord ID 672941826784624655
+[------------------------------------------------]
+
+
+Log_38577.disc
+I apologize for the amount of time between my dive updates, but I promise this time it was well worth it.
+For the last several months, I've been investigating the "true dive" of floors sub 80-92.
+I believe I have found a way to circumvent a large portion of the "true dive".
+Now as (I assume) most of you know, floors sub 80-92 are dubbed the "true dive" because it appeared that there was no way through to deeper floors other than by perilous swim, punctuated by occasional air pockets.
+However, after some time clearing debris from the pipes, I have found an unflooded tunnel from floors sub 84-92.
+As you might assume, this opens the potential for transporting more treasure upwards, or more supplies downwards, as sodden rations rarely last, and drenched treasures sell for much less.
+It is rather hard to map due to the layout, however my best attempt to place it on current mappings is attached.
+If anyone has any worries about the new passage, Send a dive message, and I will gladly ferry you along.
+
+Attachment: Map_tunnel_sub_84-92.pdf
+
+Log_38577.1.1
+I met her today, my first time seeing a self made diver. She had never gone sub 60, before.
+Claimed she was "as good as the best". I could tell she'd never actually consulted a diver before this point, all the information in her head gleaned from the very surface of /dive/.
+I asked her to reconsider, yet she had the gleam of days long gone in her eyes.
+She was chasing after her idols, and I could not stop her. The very least I could do was ferry her safely to her destination.
+Godspeed, Kara, and may you never experience the true horrors of diving.
+
+Log_38577.2.1
+Some of the newer divers seem to regard me as some sort of gatekeeper or "master" of the flooded zone. I am neither.
+I am but a simple ferryman, and the only blessing I can give is safe passage through my minuscule domain.
+
+Log_38577.18.1
+I do not regret my decision to give up deep diving.
+The horrors of below still have a tight grasp on my mind, and the divers who managed to survive down there might actually scare me more than the things that live there.
+Though, with the faces I see constantly changing, it's easy to forget that I was once one of those men, and perhaps, maybe it's myself that scares me the most.
+
+Log_38577.28.1
+She came back today. Kara, the girl from weeks ago.
+Her eyes no longer have the glimmer from when she left, and one of them is gone completely.
+She's lost an arm, though I refuse to ask how. She trembles at every rest we take.
+I have nothing to say, nothing to grant her, not even kind words of reassurance.
+For I know... I know that the depths hold nothing but even worse terrors.
+I can only pray she'll safely return to the upper floors.
+
+Log_38577.32.1
+The days when no divers contract me are the ones where I find myself reflecting on my past the most.
+I remember when the Crawler hive of sub 267 spanned maybe a few floors at max.
+It was my first time sub 300. That was the only time I ever met {######}.
+well, I say "met" but rather I only caught a glimpse him from a distance.
+He fought like a beast, tearing through several snatchers before fading into the shadows, disappearing from the rest of the pack, and my own vision.
+And like a shadow, he was gone. the only remnant of his presence being the corpses he left behind.
+It terrified me, but it was also the first time I felt that burn in my soul. I felt the desire to delve even deeper.
+Thankfully my common sense managed to cancel that desire. Self preservation is more important than the dive of course.
+However, I will never forget the way my heart began racing, as if I was watching the peak of what men could become.
+The peak we could all potentially reach.
+
+
+[------------------------------------------------]
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
