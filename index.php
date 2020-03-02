@@ -1,5 +1,5 @@
 <?php echo file_get_contents("html/header.html"); ?>
-<title>Bloc | Home</title>
+<title>Home | Bloc</title>
 <meta property="og:url" content="https://bloc.gq">
 <?php echo file_get_contents("html/header2.html"); ?>
 <h1 class="center" style="padding-top:30px; font-size: 100px">The Bloc Project</h1>
