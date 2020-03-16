@@ -9,6 +9,7 @@ html, body {
   color: #FFF;
   height: 100%;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 @font-face {
