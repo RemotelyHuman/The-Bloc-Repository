@@ -1,4 +1,4 @@
-<?php echo file_get_contents("https://bloc.gq/html/header.html"); ?>
+<?php echo file_get_contents("https://bloc.gq/html/header.html"); ?> 
 <title>Search | Bloc</title>
 <meta property="og:url" content="https://bloc.gq">
 <script type="text/javascript" src="js/search.js"></script>
