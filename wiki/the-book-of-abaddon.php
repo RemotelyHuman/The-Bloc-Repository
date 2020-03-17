@@ -1,9 +1,16 @@
-<?php echo file_get_contents("https://bloc.gq/html/header-wiki.html"); ?>
+<?php echo file_get_contents("../html/header-wiki.html"); ?>
 <title>The Book of Abaddon | Bloc Wiki</title>
 <meta property="og:url" content="https://bloc.gq">
-<?php echo file_get_contents("https://bloc.gq/html/navbar-wiki.html"); ?>
+<?php echo file_get_contents("../html/navbar-wiki.html"); ?>
 <div class="title" style="background-image: url('https://cukon.ml/error/error.png');"><div class="title-text">The Book of Abaddon</div></div>
 <div class="page">
+
+<div class="sidebar-small">
+  <a href="#tboa">The Book of Abaddon</a>
+  <a href="#VE">Verse Eins</a>
+  <a href="#VZ">Verse Zwei</a>
+  <a href="#VD">Verse Drei</a>
+</div>
 
 <div class="content">
 
@@ -41,4 +48,4 @@ Amen.
 </div>
 
 </div>
-<?php echo file_get_contents("html/footer.html"); ?>
+<?php echo file_get_contents("../html/footer.html"); ?>

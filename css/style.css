@@ -91,3 +91,11 @@ html, body {
 .top{
   height: 66px;
 }
+
+.hide {
+  display: none;
+}
+@media screen and (max-width: 775px) {
+  .hide-medium {display: none;}
+  .hide {display: block;}
+}

@@ -24,6 +24,9 @@
   padding-right: 10px;
 }
 
+/*sidebar*/
+
+/*sidebar large*/
 .sidebar {
     background-color: #111315;
     width: 200px;
@@ -40,4 +43,31 @@
 
 .sidebar a:hover {
   background-color: #555;
+}
+/*sidebar small*/
+.sidebar-small {
+    background-color: #111315;
+    width: 200px;
+    overflow-x: auto;
+    align-self: flex-start;
+    display: none;
+}
+
+.sidebar-small a {
+  display: block;
+  color: #FFF;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidebar-small a:hover {
+  background-color: #555;
+}
+
+/*responsive*/
+@media screen and (max-width: 775px) {
+  .sidebar {display: none;}
+  .sidebar-small {display: block;}
+  .page {display: block;}
+  .title {font-size: 70px;}
 }
