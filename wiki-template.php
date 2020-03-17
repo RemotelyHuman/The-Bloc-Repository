@@ -1,5 +1,5 @@
 <?php echo file_get_contents("https://bloc.gq/html/header-wiki.html"); ?>
-<title>Wiki Template | Bloc</title> //Title
+<title>Wiki Template | Bloc</title>
 <meta property="og:url" content="https://bloc.gq">
 <?php echo file_get_contents("https://bloc.gq/html/navbar-wiki.html"); ?>
 <div class="title" style="background-image: url('https://cukon.ml/error/error.png');"><div class="title-text">Title</div></div>
