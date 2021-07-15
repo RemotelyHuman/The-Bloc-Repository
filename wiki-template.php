@@ -2,12 +2,12 @@
 <title>Wiki Template | Bloc</title>
 <meta property="og:url" content="https://bloc.gq">
 <?php echo file_get_contents("../html/navbar-wiki.html"); ?>
-<div class="title" style="background-image: url('https://cukon.ml/error/error.png');"><div class="title-text">Title</div></div>
+<div class="title" style="background-image: url('../error/error.png');"><div class="title-text">Title</div></div>
 <div class="page">
 
 <div class="content"> <!-- Main stuff goes in here !-->
 <h1 id="test">Test</h1>
-<img src="https://cukon.ml/error/error.png" style="height:20vh">
+<img src="../error/error.png" style="height:20vh">
 <p>test</p>
 
 </div>

@@ -2,7 +2,7 @@
 <title>The Book of Abaddon | Bloc Wiki</title>
 <meta property="og:url" content="https://bloc.gq">
 <?php echo file_get_contents("../html/navbar-wiki.html"); ?>
-<div class="title" style="background-image: url('https://cukon.ml/error/error.png');"><div class="title-text">The Book of Abaddon</div></div>
+<div class="title" style="background-image: url('../error/error.png');"><div class="title-text">The Book of Abaddon</div></div>
 <div class="page">
 
 <div class="sidebar-small">
