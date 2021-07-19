@@ -1,7 +1,7 @@
 # The Bloc Project
 
 ## What's in this repo
-- [Website](https://bloc.gq/)
+- [Website.]
 - [Bloc Works](https://github.com/The-Bloc-Project/The-Bloc-Repository/tree/master/works)
 - [License (Attribution-ShareAlike 4.0 International)](https://github.com/The-Bloc-Project/The-Bloc-Repository/tree/master/LICENSE.md)
 
